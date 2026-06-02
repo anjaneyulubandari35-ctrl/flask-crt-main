@@ -1,0 +1,6 @@
+Flask
+gunicorn
+pymongo
+bcrypt
+PyJWT
+moviepy
